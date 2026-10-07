@@ -244,7 +244,7 @@ M-Pesa generated the highest revenue contribution in the dataset.
 ---
 
 ## 📊 Business Intelligence Dashboard
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](https://github.com/stanleymunyaotech/sales-data-analysis-excel/blob/main/dashboard.png)
 
 An Excel dashboard was developed to provide management with a visual overview of business performance.
 
