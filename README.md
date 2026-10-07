@@ -323,4 +323,6 @@ Based on the analysis:
 sales-data-analysis-excel/
 │
 ├── Sales_Data_Analysis.xlsx
+├── dashboard.png
 └── README.md
+
